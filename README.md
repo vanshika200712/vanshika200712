@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vanshika 👋
 
-<!--
-**vanshika200712/vanshika200712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science (ai/ml) student
 
-Here are some ideas to get you started:
+I'm building my skills in software development , artificial intelligent and machine learning  and working towards becoming internship-ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 📚 Learning Data Structures and Algorithms (DSA)
+- 💻 Practicing problem-solving and programming
+- 🛠️ Working on projects to strengthen my development skills
+- 🎯 Goal: Gain practical experience through software development internships
+
+## 🧰 Skills I'm Developing
+
+- Programming and problem-solving
+- Data Structures and Algorithms
+  
+- Git and GitHub
+
+## 📌 Projects
+
+I'm working on projects to apply what I learn. I'll showcase my completed projects here as I build and improve them.
+
+## 📈 Current Focus
+
+- Strengthening my DSA fundamentals
+- Building practical projects
+- Learning to write clean, maintainable code
+
+Thanks for visiting my profile! 😊
